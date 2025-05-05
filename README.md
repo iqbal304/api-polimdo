@@ -1,1 +1,1 @@
-# polimdo-server
+# informatika-server
